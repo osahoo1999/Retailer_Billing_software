@@ -1,0 +1,25 @@
+
+	       Retailer BILL-Management 
+	 Phone No.7327852324,Mangalpur-752104
+===============================================
+ Customer Name: Ramesh			Time: 12:52:07
+ Ph no. :1593578520
+ Bill No. 9187230			Date: 09/06/2023
+===============================================
+ Product Name			QTY	Price 
+===============================================
+        
+ Brown Rice(5kg pk)			1	Rs.150.0
+ Arhar(1kg pk)			1	Rs.95.0
+ Aashirbada(1 kg)			1	Rs.10.0
+ Dettol(100 gm)			1	Rs.35.0
+ Sprite(750 ml)			1	Rs.38.0
+ Fortune(1 Ltr)			1	Rs.155.0
+ Masoor(1kg pk)			1	Rs.60.0
+===============================================
+ Bill Amount				Rs.543.0
+ Discount				Rs.27.15
+ Net Pay				Rs.515.85
+===============================================
+
+        

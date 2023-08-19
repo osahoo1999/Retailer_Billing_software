@@ -1,0 +1,24 @@
+
+	       Retailer BILL-Management 
+	 Phone No.7327852324,Mangalpur-752104
+===============================================
+ Customer Name: Rama sahoo			Time: 21:56:49
+ Ph no. :12547896
+ Bill No. 22277672			Date: 22/06/2023
+===============================================
+ Product Name			QTY	Price 
+===============================================
+        
+ Basumati(5kg pk)			1	Rs.350.0
+ Basumati(1kg pk)			1	Rs.75.0
+ Moong(1kg pk)			1	Rs.74.0
+ Aashirbada(5kg pk)			1	Rs.190.0
+ TATA Salt(500 gm)			1	Rs.6.0
+ Aashirbada(1 kg)			3	Rs.30.0
+===============================================
+ Bill Amount				Rs.725.0
+ Discount				Rs.36.25
+ Net Pay				Rs.688.75
+===============================================
+
+        
